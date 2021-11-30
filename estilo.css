@@ -1,0 +1,64 @@
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1000; 
+}
+
+.content{
+    top: 0;
+    background-color: rgba(82, 81, 80, 0.5);
+    color: #000;
+    width: 61%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 12cm;
+}
+H1, p{
+    text-align: center;
+}
+/* #myPhoto {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1000; 
+}*/
+.mycontent{
+    top: 0;
+    background-color: rgb(214, 177, 75);
+    color: #000;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mytitle{
+    font-size: 0.8cm;
+}
+.mytext{
+    font-size: 0.6cm;
+}
+.micontent{
+    top: 0;
+    background-color: rgba(82, 81, 80, 0.5);
+    color: #000;
+    width: 61%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 8.5cm;
+
+}
+.postit{
+    top: 0;
+    background-color: rgba(235, 203, 115, 0.87);
+    color: #000;
+    width: 16.4cm;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 8.5cm;
+}
+
